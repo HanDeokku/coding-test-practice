@@ -17,3 +17,5 @@ def solution(numbers):
         answer += s
     
     return answer if answer[0] != '0' else '0'
+
+## functools의 cmp_to_key : 원하는 기준으로 정렬하게 만들어준다
