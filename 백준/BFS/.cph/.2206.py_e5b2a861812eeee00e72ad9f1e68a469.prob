@@ -1,0 +1,1 @@
+{"name":"Local: 2206","url":"/Users/hdk/Desktop/알고리즘 공부/바킹독/BFS/2206.py","tests":[{"id":1735533749818,"input":"6 4\n0100\n1110\n1000\n0000\n0111\n0000","output":""},{"id":1735535823820,"input":"4 4\n0111\n1111\n1111\n1110","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/바킹독/BFS/2206.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 3273","url":"/Users/hdk/Desktop/알고리즘 공부/바킹독/배열/3273.py","tests":[{"id":1733387656137,"input":"9\n5 12 7 10 9 1 2 3 11\n13","output":"3"},{"id":1733388071814,"input":"5\n1 2 3 4 5\n6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/바킹독/배열/3273.py","group":"local","local":true}

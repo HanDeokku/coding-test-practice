@@ -1,0 +1,1 @@
+{"name":"Local: 1926","url":"/Users/hdk/Desktop/알고리즘 공부/바킹독/BFS/1926.py","tests":[{"id":1734669432182,"input":"6 5\n1 1 0 1 1\n0 1 1 0 0\n0 0 0 0 0\n1 0 1 1 1\n0 0 1 1 1\n0 0 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/바킹독/BFS/1926.py","group":"local","local":true}

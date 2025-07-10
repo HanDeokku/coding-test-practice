@@ -1,0 +1,1 @@
+{"name":"Local: bigO_3","url":"/Users/hdk/Desktop/알고리즘 공부/바킹독/bigO_3.py","tests":[{"id":1733381366319,"input":"9","output":"1"},{"id":1733381408093,"input":"756580036","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/바킹독/bigO_3.py","group":"local","local":true}

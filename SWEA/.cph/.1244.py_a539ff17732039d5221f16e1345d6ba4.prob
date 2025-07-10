@@ -1,0 +1,1 @@
+{"name":"Local: 1244","url":"/Users/hdk/Desktop/알고리즘 공부/SWEA/1244.py","tests":[{"id":1729515957789,"input":"3\n123 1\n2737 1\n32888 2","output":"#1 321\n#2 7732\n#3 88832"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/SWEA/1244.py","group":"local","local":true}

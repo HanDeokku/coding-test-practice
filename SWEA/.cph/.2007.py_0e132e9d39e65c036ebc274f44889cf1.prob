@@ -1,0 +1,1 @@
+{"name":"Local: 2007","url":"/Users/hdk/Desktop/알고리즘 공부/SWEA/2007.py","tests":[{"id":1729841258829,"input":"3       \nKOREAKOREAKOREAKOREAKOREAKOREA\nSAMSUNGSAMSUNGSAMSUNGSAMSUNGSA\nGALAXYGALAXYGALAXYGALAXYGALAXY","output":"#1 5\n#2 7\n#3 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/SWEA/2007.py","group":"local","local":true}

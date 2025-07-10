@@ -1,0 +1,1 @@
+{"name":"Local: 2504","url":"/Users/hdk/Desktop/알고리즘 공부/바킹독/스택&큐&덱/2504.py","tests":[{"id":1734593375076,"input":"(()[[]])([])","output":"28"},{"id":1734593387435,"input":"[][]((])","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/바킹독/스택&큐&덱/2504.py","group":"local","local":true}

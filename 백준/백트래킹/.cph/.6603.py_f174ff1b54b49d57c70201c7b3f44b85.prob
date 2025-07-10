@@ -1,0 +1,1 @@
+{"name":"Local: 6603","url":"/Users/hdk/Desktop/알고리즘 공부/바킹독/백트래킹/6603.py","tests":[{"id":1736916385500,"input":"7 1 2 3 4 5 6 7\n8 1 2 3 5 8 13 21 34\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hdk/Desktop/알고리즘 공부/바킹독/백트래킹/6603.py","group":"local","local":true}
